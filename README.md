@@ -1,12 +1,8 @@
-### Hi there 👋
+### ImBusy
+You can contact me on discord and telegram  
 
-Here are some ideas to get you started:
+[![Discord Status, if this text is visible and blue that means that the host or discord status thing is in maintenance/down](https://discord.c99.nl/widget/theme-2/658273895018790912.png)](https://discord.c99.nl/)  
 
-- 🔭 I’m currently working on C / C++ / C#
-- 🌱 I’m currently learning C++
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Discord server [here](https://discord.gg/WWeEuYYREV)
 
-[https://discord.c99.nl/widget/theme-2/658273895018790912.png]
+Languages i know: C# and C++
