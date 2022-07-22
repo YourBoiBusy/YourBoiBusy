@@ -6,10 +6,10 @@ You can contact me on discord
 Discord server [here](https://discord.gg/WWeEuYYREV)
 
 Worked on : 
--Customizing WhatsApp Plus and having more than 700 peoples that downloaded it.
--Making an Private Server for a game Called Growtopia and sharing the files and having more than 3500 person to use the files. C++ / c#
--Making Proxy's to read game files console for game Called Growtopia. C++ / C#
--Making Discord spammer tool and having more than 200 people's to use it. C#
+-Customizing WhatsApp Plus and having more than 700 peoples that downloaded it.\n
+-Making an Private Server for a game Called Growtopia and sharing the files and having more than 3500 person to use the files. C++ / c#\n
+-Making Proxy's to read game files console for game Called Growtopia. C++ / C#\n
+-Making Discord spammer tool and having more than 200 people's to use it. C#\n
 
 -Using Kali Linux as dual boot and starting to learn Ethical Hacking (started with beef tool).
 
