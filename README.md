@@ -18,6 +18,7 @@ Worked on :
 -Using Kali Linux as dual boot and starting to learn Ethical Hacking (started with beef tool).
 
 Main IDE to code:
+
 -Visual studio 2019 - 2022.
 
 -Visual studio code.
