@@ -6,6 +6,7 @@ You can contact me on discord
 Discord server [here](https://discord.gg/WWeEuYYREV)
 
 Worked on : 
+
 -Customizing WhatsApp Plus and having more than 700 peoples that downloaded it.
 
 -Making an Private Server for a game Called Growtopia and sharing the files and having more than 3500 person to use the files. C++ / c#
